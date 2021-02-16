@@ -29,6 +29,7 @@ To check it out, here's the link: [Snapchat Clone](https://snapchat-clone-d954b.
 ### Technologies
 
 Tech stacks used: ReactJS, Redux, Firebase, Javascript, CSS
+
 Misc packages: ReactTimeAgo, React-Webcam, Fuse.js, Material UI, React-Router-Dom, react-countdown-circle-timer, uuid
 
 ---
