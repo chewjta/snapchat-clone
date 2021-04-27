@@ -1,4 +1,4 @@
-# Snapchat Clone
+\# Snapchat Clone
 
 ## Content Page
 
@@ -18,7 +18,7 @@ To check it out, here's the link: [Snapchat Clone](https://snapchat-clone-d954b.
 
 ![demo1](snapchat-clone.gif)
 
-1. Snap a photo and share it with your friends.
+1. Snap a photo and share it with your friends
 2. Search for your friend's snaps
 3. Login / Logout using Google Authentication
 4. Only unread snaps are shown
@@ -29,6 +29,7 @@ To check it out, here's the link: [Snapchat Clone](https://snapchat-clone-d954b.
 ### Technologies
 
 Tech stacks used: ReactJS, Redux, Firebase, Javascript, CSS
+
 Misc packages: ReactTimeAgo, React-Webcam, Fuse.js, Material UI, React-Router-Dom, react-countdown-circle-timer, uuid
 
 ---
